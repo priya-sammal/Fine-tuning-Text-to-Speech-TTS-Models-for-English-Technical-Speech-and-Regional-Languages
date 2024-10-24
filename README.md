@@ -1,0 +1,2 @@
+# Fine-tuning-Text-to-Speech-TTS-Models-for-English-Technical-Speech-and-Regional-Languages
+This repository contains the code and resources for fine-tuning TTS models to handle English technical jargon and a selected regional language. Models are optimized with pre-training for high-quality pronunciation of technical terms and regional language fluency, with a focus on inferring with speed using quantization techniques.
