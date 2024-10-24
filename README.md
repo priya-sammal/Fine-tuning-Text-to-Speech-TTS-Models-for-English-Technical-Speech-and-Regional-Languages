@@ -15,6 +15,23 @@ This project demonstrates the fine-tuning of Text-to-Speech (TTS) models to hand
 - [Results](#results)
 - [License](#license)
 
+  
+## Prerequisites
+
+- Python 3.8+
+- PyTorch
+- Coqui TTS or SpeechT5
+- A dataset for English technical terms and a regional language corpus
+
+## Installation
+
+1. Clone the repository:
+
+bash
+git clone https://github.com/yourusername/fine-tuning-tts.git
+cd fine-tuning-tts
+
+
 ## Project Overview
 The repository consists of two main tasks:
 1. **Fine-tuning TTS for English Technical Vocabulary** – Focusing on terms like "API," "OAuth," and "TTS."
