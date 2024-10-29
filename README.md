@@ -28,7 +28,7 @@ This project demonstrates the fine-tuning of Text-to-Speech (TTS) models to hand
 1. Clone the repository:
 
 bash
-git clone https://github.com/priya-sammal/fine-tuning-tts.git
+git clone https://github.com/priya-sammal/fine-tuning-ttsFine-tuning Text-to-Speech (TTS) Models for English Technical Speech and Regional Languages.git
 cd fine-tuning-tts
 
 
